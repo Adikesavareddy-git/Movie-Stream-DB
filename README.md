@@ -1,2 +1,1 @@
-# Movie-Stream-DB
-Designed a SQL database for an online food delivery system to manage customers, restaurants, orders, and items. Implemented queries using joins, subqueries, aggregations, and window functions to analyze customer spending, restaurant sales, and delivery performance for business insights.
+Created a SQL database for a movie streaming service to store and analyze users, movies, subscriptions, and viewing history. Applied joins, group by, subqueries, and window functions to evaluate user engagement, top-rated movies, popular genres, and total watch time across users.
